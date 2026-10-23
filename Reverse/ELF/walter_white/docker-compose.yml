@@ -1,0 +1,5 @@
+services:
+  fifty-shades-of-white:
+    image: anssi/fcsc2024-reverse-fifty-shades-of-white:latest
+    ports:
+      - "4000:4000"
